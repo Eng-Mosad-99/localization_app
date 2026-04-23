@@ -3,5 +3,8 @@
     "welcome": "Welcome to the Localization App",
     "language": "Language",
     "english": "English",
-    "arabic": "Arabic"
+    "arabic": "Arabic",
+    "changeLanguage": "Change Language",
+    "resetLocale": "Reset Locale",
+    "go": "Go"
 }
